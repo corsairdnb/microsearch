@@ -1,0 +1,17 @@
+#main-menu > ul > li > div > nav > ul:before {
+    display: none;
+}
+#main-menu > ul > li.specialist > div > nav {
+    padding-top: 15px;
+}
+#main-menu > ul > li.specialist > div > nav > ul {
+    border: 1px #ccc solid;
+}
+
+#search-query:focus {
+    border-color: #A3E8FF;
+}
+
+.spoiler-title {
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f4f7fa',GradientType=0 );
+}
